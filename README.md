@@ -18,17 +18,7 @@ Whether it’s Oracle, AI, or a sprinkle of frontend finesse – I love learning
 
  🛠️ Tech & Tools I Use
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/PLSQL-306998?style=for-the-badge&logo=oracle&logoColor=white)  
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=scikit-learn&logoColor=black)  
-![Artificial Intelligence](https://img.shields.io/badge/AI-8E44AD?style=for-the-badge&logo=ai&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/GenAI-5E60CE?style=for-the-badge&logo=openai&logoColor=white)  
-![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)![PL/SQL](https://img.shields.io/badge/PLSQL-306998?style=for-the-badge&logo=oracle&logoColor=white) ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=scikit-learn&logoColor=black)  ![Artificial Intelligence](https://img.shields.io/badge/AI-8E44AD?style=for-the-badge&logo=ai&logoColor=white)  ![Generative AI](https://img.shields.io/badge/GenAI-5E60CE?style=for-the-badge&logo=openai&logoColor=white)  ![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 🧠 Core Beliefs
