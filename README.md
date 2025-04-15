@@ -6,8 +6,6 @@
   🎯 Dreamer with deadlines • ❄️ Ice lover creator • 💡Idea explorer
 </p>
 
-👋 About Me
-
 Hi, I’m Srishti – a tech enthusiast on a mission to turn caffeine into code and ideas into real-world impact 🚀  
 Whether it’s Oracle, AI, or a sprinkle of frontend finesse – I love learning, building, and adding just the right amount of fun to every project.
 
