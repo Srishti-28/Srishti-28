@@ -1,15 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+%5BSrishti%5D+%F0%9F%91%8B;Tech+enthusiast+on+a+mission+%F0%9F%94%A5;Caffeine+%2B+Code+%3D+Magic+%E2%98%95%EF%B8%8F;Dreamer+with+deadlines+%F0%9F%8E%AF;Always+learning.+Always+curious.%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+%5BSrishti%5D+%F0%9F%91%8B;Tech+enthusiast+on+a+mission+%F0%9F%94%A5;Caffeine+%2B+Code+%3D+Impact+%E2%98%95%EF%B8%8F;Dreamer+with+deadlines+%F0%9F%8E%AF;Always+learning.+Always+curious.%F0%9F%92%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  🎯 Dreamer with deadlines • ❄️ Ice lover creator • 💡Idea explorer
+  
+ ⚡Tech Enthusiast 🎯 Dreamer with deadlines • ❄️ Ice lover creator • 💡Idea explorer
 </p>
 
-Hi, I’m Srishti – a tech enthusiast on a mission to turn caffeine into code and ideas into real-world impact 🚀  
+Hi, I’m Srishti !  I believe in clean code, clear purpose, and a bit of chaos theory . 
 Whether it’s Oracle, AI, or a sprinkle of frontend finesse – I love learning, building, and adding just the right amount of fun to every project.
-
-⚡ I believe in clean code, clear purpose, and a bit of chaos theory 😉
 
 💼 What I'm Working On
 
@@ -19,14 +18,18 @@ Whether it’s Oracle, AI, or a sprinkle of frontend finesse – I love learning
 
  🛠️ Tech & Tools I Use
 
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PLSQL](https://img.shields.io/badge/-PLSQL-blue?style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Machine Learning](https://img.shields.io/badge/-ML-BB8FCE?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/PLSQL-306998?style=for-the-badge&logo=oracle&logoColor=white)  
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=scikit-learn&logoColor=black)  
+![Artificial Intelligence](https://img.shields.io/badge/AI-8E44AD?style=for-the-badge&logo=ai&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/GenAI-5E60CE?style=for-the-badge&logo=openai&logoColor=white)  
+![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 🧠 Core Beliefs
 
