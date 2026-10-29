@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  ⚡ <b>Software & AI Engineer</b> • 🎯 <b>Enterprise AI Agents & Systems</b> • 🛡️ <b>AI Safety & Control</b>
+  ⚡ <b>Software & AI Engineer</b> •  <b>Enterprise AI Agents & Systems</b> • 🛡️ <b>AI Safety & Control</b>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Software & AI Engineer with 2+ years of experience engineering enterprise data s
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/srishtiyadav](https://linkedin.com)
 - 📧 **Email:** [srishtiyadav0902@gmail.com](mailto:srishtiyadav0902@gmail.com)
